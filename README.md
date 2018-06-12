@@ -1,1 +1,1 @@
-# This is an project of Experiment Design and Analysis
+# This is a project of Experiment Design and Analysis
